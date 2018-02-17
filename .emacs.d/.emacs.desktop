@@ -1,0 +1,67 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Aug  8 21:08:43 2017
+;; Desktop file format version 208
+;; Emacs version 25.2.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22922 24731 366834 72000) (desktop . "208") "padraic@arch" nil nil ((((font-backend xft x) (font . "-GOOG-Noto Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 1) (right-fringe . 1) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (client) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (exwm-randr-output) (exwm-geometry) (powerline-cache) (sticky) (frameset--id . "9292-AE28-C838-8F8E") (frameset--mini t) (height . 150) (width . 179) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 0) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 18) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1440) (pixel-height . 2543) (total-width . 180) (total-height . 149) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 146) (start . 1))) (((font-backend xft x) (font . "-GOOG-Noto Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 1) (right-fringe . 1) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (client) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (exwm-randr-output) (exwm-geometry) (powerline-cache) (sticky) (frameset--id . "EDE7-224F-97D8-EA0D") (frameset--mini t) (height . 150) (width . 179) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 0) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 18) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1440) (pixel-height . 2543) (total-width . 180) (total-height . 149) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 146) (start . 1))) (((font-backend xft x) (font . "-GOOG-Noto Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 1) (right-fringe . 1) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (client) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (exwm-randr-output) (exwm-geometry) (powerline-cache) (sticky) (frameset--id . "1D43-5467-C579-BB9D") (frameset--mini t) (height . 150) (width . 179) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 0) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 3) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 18) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1440) (pixel-height . 2543) (total-width . 180) (total-height . 149) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 146) (start . 1))) (((font-backend xft x) (font . "-GOOG-Noto Mono-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 1) (right-fringe . 1) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (display-type . color) (background-mode . dark) (cursor-color . "#656565") (environment) (powerline-cache) (client) (exwm-randr-output) (exwm-geometry) (sticky) (frameset--id . "D149-8C0F-992F-9CA3") (frameset--mini t . t) (height . 150) (width . 179) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 0) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 24) (min-width . 10) (min-height-ignore . 12) (min-width-ignore . 3) (min-height-safe . 6) (min-width-safe . 2) (min-pixel-height . 408) (min-pixel-width . 80) (min-pixel-height-ignore . 204) (min-pixel-width-ignore . 18) (min-pixel-height-safe . 102) (min-pixel-width-safe . 16)) vc (pixel-width . 1440) (pixel-height . 2543) (total-width . 180) (total-height . 150) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 1440) (pixel-height . 318) (total-width . 180) (total-height . 19) (normal-height . 0.125) (normal-width . 1.0) (buffer "*ansi-term*<2>" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 510) (start . 1))) (leaf (pixel-width . 1440) (pixel-height . 318) (total-width . 180) (total-height . 19) (normal-height . 0.125) (normal-width . 1.0) (buffer "ob.py" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1100) (start . 778))) (leaf (pixel-width . 1440) (pixel-height . 479) (total-width . 180) (total-height . 28) (normal-height . 0.18910382945124357) (normal-width . 1.0) (buffer "obdb.q" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1535) (start . 1))) (leaf (pixel-width . 1440) (pixel-height . 157) (total-width . 180) (total-height . 9) (normal-height . 0.06089617054875645) (normal-width . 1.0) (buffer "wo.q" (selected) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 59) (start . 1))) (leaf (pixel-width . 1440) (pixel-height . 636) (total-width . 180) (total-height . 38) (normal-height . 0.25) (normal-width . 1.0) (buffer "Firefox" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 nil nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (leaf (last . t) (pixel-width . 1440) (pixel-height . 635) (total-width . 180) (total-height . 37) (normal-height . 0.25) (normal-width . 1.0) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 1 1 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1951) (start . 1380)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/" "/home/padraic/.emacs" "/home/padraic/gdax/obdb.q" "/home/padraic/gdax/wo.q" "/home/padraic/gdax/ob.py"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/padraic/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  nil
+  1951
+  '(1435 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1952 1913))))
+
+(desktop-create-buffer 208
+  "/home/padraic/gdax/obdb.q"
+  "obdb.q"
+  'q-mode
+  nil
+  1535
+  '(501 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (488 281 472 281 281 281 195 488 1535 1535 305 1535 1129 1358 1172 1535))))
+
+(desktop-create-buffer 208
+  "/home/padraic/gdax/ob.py"
+  "ob.py"
+  'python-mode
+  nil
+  1100
+  '(1140 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (209 1100 469 517 577 1100))))
+
+(desktop-create-buffer 208
+  "/home/padraic/gdax/wo.q"
+  "wo.q"
+  'q-mode
+  nil
+  59
+  '(59 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (59))))
+
